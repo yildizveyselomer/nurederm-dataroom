@@ -1,0 +1,59 @@
+{
+  "title": "Nurederm Dataroom",
+  "lastUpdated": "2025-07-18",
+  "categories": [
+    {
+      "id": "legal",
+      "title": "Legal Documents",
+      "description": "Legal agreements and compliance documents",
+      "files": [
+        {
+          "id": "confidentiality-notice",
+          "name": "Confidentiality Notice.pdf",
+          "type": "pdf",
+          "size": "245 KB",
+          "lastModified": "2024-12-31",
+          "description": "Confidentiality and non-disclosure agreement",
+          "tags": ["legal", "confidentiality"],
+          "downloadUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "previewUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "category": "legal"
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "title": "Company Overview",
+      "description": "General company information and structure",
+      "files": [
+        {
+          "id": "dataroom-contents",
+          "name": "Nurederm Dataroom Contents.pdf",
+          "type": "pdf",
+          "size": "1.2 MB",
+          "lastModified": "2025-07-18",
+          "description": "Overview of dataroom contents and structure",
+          "tags": ["overview", "contents"],
+          "downloadUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "previewUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "category": "overview"
+        }
+      ]
+    }
+  ],
+  "rootFiles": [
+    {
+      "id": "signed-mou",
+      "name": "Signed MoU_Seoul_160725.pdf",
+      "type": "pdf",
+      "size": "890 KB",
+      "lastModified": "2025-07-17",
+      "description": "Signed Memorandum of Understanding",
+      "tags": ["legal", "agreement"],
+      "downloadUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "previewUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "category": "root"
+    }
+  ]
+}
+

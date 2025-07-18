@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "ef99305a3ccf6a3fbfbc986dd0c4b5e89ec6cb954876c116fc54cf480a3a1d42",
+      "role": "admin",
+      "name": "System Administrator",
+      "email": "admin@nurederm.com",
+      "createdAt": "2025-07-18T08:00:00Z",
+      "lastLogin": null,
+      "isActive": true
+    },
+    {
+      "id": "investor1",
+      "username": "investor1",
+      "password": "e171097b66d57a5024dae8a26ea96bb52a8fc652616e72aefc6d6590305b6c3b",
+      "role": "investor",
+      "name": "Yat\u0131r\u0131mc\u0131 1",
+      "email": "investor1@example.com",
+      "createdAt": "2025-07-18T08:00:00Z",
+      "lastLogin": null,
+      "isActive": true,
+      "permissions": {
+        "canDownload": true,
+        "canPreview": true,
+        "allowedCategories": [
+          "all"
+        ]
+      }
+    },
+    {
+      "id": "investor2",
+      "username": "investor2",
+      "password": "db237dc6c60074b5fe6f57da3d6d9ba9fc92578bd1440cca3d0de074b629f428",
+      "role": "investor",
+      "name": "Yat\u0131r\u0131mc\u0131 2",
+      "email": "investor2@example.com",
+      "createdAt": "2025-07-18T08:00:00Z",
+      "lastLogin": null,
+      "isActive": true,
+      "permissions": {
+        "canDownload": true,
+        "canPreview": true,
+        "allowedCategories": [
+          "financials",
+          "presentations"
+        ]
+      }
+    }
+  ],
+  "sessions": [],
+  "activities": []
+}
