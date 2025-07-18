@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# This dataroom contains confidential information
+# Unauthorized access is prohibited
+
